@@ -1,0 +1,18 @@
+{
+  "name": "mc-categorizer",
+  "version": "1.0.0",
+  "main": "./src/app.ts",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.9",
+    "jest": "^26.6.3",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "dev": "nodemon"
+  }
+}
